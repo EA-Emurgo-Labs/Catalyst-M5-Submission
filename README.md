@@ -26,7 +26,7 @@ This repository contains all documentation and evidence supporting the completio
 ---
 
 ## Milestone 5 Summary  
-Milestone 5 focuses on consolidating deliverables from Cohort 1 and launching Cohort 2 activities.  
+Milestone 5 focuses on consolidating deliverables from Cohort 2.  
 Key objectives include:  
 
 - Evaluation and reporting of Cohort 2 outcomes.  
